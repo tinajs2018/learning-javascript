@@ -1,0 +1,24 @@
+
+img{
+  background-color: purple;
+}
+form{
+  margin-left: 20px;
+  padding: 50px;
+}
+input[type]{
+border: none;
+  border-bottom: 2px solid black;
+
+}
+#pen{
+  background-color: purple;
+  color:white;
+}
+#app{
+  background-color:white;
+}
+html{
+  background: linear-gradient( to right,pink,purple);
+
+}

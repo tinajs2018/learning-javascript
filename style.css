@@ -1,0 +1,33 @@
+h1{
+  background-color: palevioletred;
+  border-radius: 25px;
+  text-shadow: 0 0 3px #FF0000;
+}
+  
+#bot{
+  border: 10px solid black;
+  padding: 15px;
+ border-image: 20%;
+ transform: skewy(20deg);
+ 
+}
+
+
+ h2{
+  transform: 850px 100px;
+ }
+ #house{
+   column-count: 3;
+   column-gap: 40px;
+   column-rule: 2px solid black;
+ 
+  
+ }
+
+@media screen and(min-width:1800px){
+  body{
+    background-color: darkblue;
+  }
+}
+  
+    
